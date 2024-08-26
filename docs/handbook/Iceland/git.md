@@ -19,3 +19,4 @@ ssh -Tv git@github.com
 ssh-keygen -f "/home/ali/.ssh/known_hosts" -R "github.com"
 git pull 
 git remote -v
+git
