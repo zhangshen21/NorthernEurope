@@ -16,3 +16,4 @@ git push origin master
 
 ## 命令
 ssh -Tv git@github.com
+ssh-keygen -f "/home/ali/.ssh/known_hosts" -R "github.com"
